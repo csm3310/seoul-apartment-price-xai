@@ -68,11 +68,15 @@
 서울 열린데이터 광장의 지하철역 위치 데이터를 활용해 각 아파트와 가장 가까운 역까지의 거리를 계산했습니다.  
 거리 계산에는 **Haversine Distance**를 사용하여 실제 위치 기반 거리를 반영했습니다.
 
+- Link: https://data.seoul.go.kr/dataList/OA-21213/S/1/datasetView.do
+
 ### 2) Local Infrastructure
 카카오 로컬 API를 활용해 아파트 반경 800m 이내의 생활 편의시설 개수를 수집했습니다.
 
 - `mart_cnt`: 마트/슈퍼 개수
 - `culture_cnt`: 문화시설 개수
+
+- Link: https://apis.map.kakao.com/
 
 ---
 
