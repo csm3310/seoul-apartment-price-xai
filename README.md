@@ -96,18 +96,18 @@ EDA를 통해 확인한 주요 인사이트는 다음과 같습니다.
 모델의 전역적 설명력을 확인하기 위해 SHAP Summary Plot을 활용했습니다.  
 `m2`, `age_months`, `lat_scaled`, `households`, `cluster_1` 등이 주요 변수로 나타났으며, 특히 전용면적이 가격 상승에 가장 큰 영향을 미치는 변수임을 확인할 수 있었습니다.
 
-![SHAP Summary Plot](images/figure 1.png)
+![SHAP Summary Plot](images/figure1.png)
 
 ### Cluster Map
 서울 아파트를 지리적 유사성 기준으로 클러스터링하여 지도에 시각화했습니다.  
 이를 통해 가격 분포가 단순한 연식 차이보다 **지역적 프리미엄**에 더 크게 좌우된다는 점을 공간적으로 확인할 수 있었습니다.
 
-![Cluster Map](images/figure 3.png)
+![Cluster Map](images/figure3.png)
 
 ### Additional Visualization
 추가 시각화를 통해 서울 아파트 가격과 공간적 특성 간의 관계를 보조적으로 분석했습니다.
 
-![Additional Figure](images/figure 2.png)
+![Additional Figure](images/figure2.png)
 
 ---
 
